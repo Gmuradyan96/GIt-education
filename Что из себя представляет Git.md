@@ -46,9 +46,6 @@ Need to see the difference in the action taken
 >>>Thank you for wasting  your  time and read it , may the   Odin be with you 
 
 
-<<<<<<< HEAD
-=
-chisteishij 
->>>>>>> Rab
 
 
+![Odin](Odin.jpg)
