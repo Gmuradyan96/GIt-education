@@ -43,9 +43,12 @@ Need to see the difference in the action taken
 ***If you want  to know  more about  GIt and his functions*** [click here](https://github.com/git-guides) 
 
 
->>>Thank you for wasting  your  time and read it , may the   Odin be with you 
+>>>>>Thank you for wasting  your  time and read it , may the   Odin be with you 
+
+
+something else 
+
+alya franklinin uje  ne tot
 
 
 
-
-![Odin](Odin.jpg)
