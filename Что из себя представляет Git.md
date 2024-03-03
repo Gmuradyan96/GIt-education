@@ -41,19 +41,14 @@ Git diff
 Need to see the difference in the action taken
 
 ```shell
-git branch <Name>
+git branch "Name"  
 ```
-Need to add new branch 
+Need to add new branch and we  can delete it too with ``` git branch --D ``` 
 
 ```shell
-git merge <Branch name>
+git merge "Branch name"
 ```
 Need for merge new branch with master  branch
-
-
-
-
-
 
 
 
