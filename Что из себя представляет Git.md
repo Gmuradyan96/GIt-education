@@ -40,6 +40,23 @@ Git diff
 ```
 Need to see the difference in the action taken
 
+```shell
+git branch <Name>
+```
+Need to add new branch 
+
+```shell
+git merge <Branch name>
+```
+Need for merge new branch with master  branch
+
+
+
+
+
+
+
+
 ***If you want  to know  more about  GIt and his functions*** [click here](https://github.com/git-guides) 
 
 
