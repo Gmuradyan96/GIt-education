@@ -50,7 +50,7 @@ git merge <Branch name>
 ```
 Need for merge new branch with master  branch
 
-```shell
+
 
 
 
