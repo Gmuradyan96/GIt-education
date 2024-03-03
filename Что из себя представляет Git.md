@@ -47,6 +47,11 @@ Need to add new branch
 
 ```shell
 git merge <Branch name>
+```
+Need for merge new branch with master  branch
+
+```shell
+
 
 
 
