@@ -56,9 +56,9 @@ git clone "name of url"
 Need for clone-ing other created  repository 
 
 ```shell
-git push
+git push 
 ```
-Need to save our data in ```Github```
+Need to save our data in ```Github``` but don`t  forget to write ```git add``` then ```git commit``` after write ```git push``` 
 
 
 
