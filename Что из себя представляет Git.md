@@ -58,7 +58,7 @@ Need for clone-ing other created  repository
 ```shell
 git push 
 ```
-Need to save our data in ```Github``` but don`t  forget to write ```git add``` , ```git commit``` , ```git push``` 
+Need to save our data in ```Github``` but don`t  forget to write  ```Git add```   ```Git commit```   ```Git push``` 
 
 
 
