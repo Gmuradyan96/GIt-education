@@ -50,6 +50,11 @@ git merge "Branch name"
 ```
 Need for merge new branch with master  branch
 
+  ```shell
+git clone "name of url"
+```
+Need for clone-ing other created  repository 
+
 
 
 ***If you want  to know  more about  GIt and his functions*** [click here](https://github.com/git-guides) 
