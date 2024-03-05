@@ -60,7 +60,10 @@ git push
 ```
 Need to save our data in ```Github``` but don`t  forget to write  ```Git add```   ```Git commit```   ```Git push``` 
 
-
+```shell
+git pull
+``` 
+Need to replace repository from  ```GitHub``` to our  local repository ```Command prompt```
 
 
 
