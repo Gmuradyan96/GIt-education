@@ -55,6 +55,13 @@ git clone "name of url"
 ```
 Need for clone-ing other created  repository 
 
+```shell
+git push
+```
+Need to save our data in ```Github```
+
+
+
 
 
 ***If you want  to know  more about  GIt and his functions*** [click here](https://github.com/git-guides) 
