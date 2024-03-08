@@ -72,7 +72,7 @@ Need to replace repository from  ```GitHub``` to our  local repository ```Comman
 
 >>>>>Thank you for wasting  your  time and read it , may the   Odin be with you 
 
-
+i want to check how i can use  git 
 
 
 
