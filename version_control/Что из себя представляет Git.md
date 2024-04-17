@@ -62,8 +62,18 @@ Need to save our data in ```Github``` but don`t  forget to write  ```Git add``` 
 
 ```shell
 git pull
-``` 
+```
 Need to replace repository from  ```GitHub``` to our  local repository ```Command prompt```
+
+```shell
+git coa
+```
+similar team as ```git commit```
+
+```
+git config --global alias.coa "!git add -A && git commit -m"
+git coa
+```
 
 
 
